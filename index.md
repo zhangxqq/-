@@ -28,4 +28,4 @@ The App support main features is:
 
 ### Support or Contact
 
-If you have some question about above, please contact us:
+If you have some question about above, please contact us: paydayloan@163.com
