@@ -1,6 +1,7 @@
 ## Welcome to 预算跟踪器
 The App support main features is:
-1 Add new expense records in a convenient way.\n
+1 Add new expense records in a convenient way.  
+
 2 Backing up and restoring data via iCloud.
 3 Accounting for expenses.
 4 Handy pie chart.
