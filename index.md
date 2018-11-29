@@ -1,4 +1,4 @@
-## Welcome to 预算跟踪器
+## Welcome to 消费计算器
 The App support main features is:  
 
 1 Add new expense records in a convenient way.  
@@ -28,4 +28,4 @@ The App support main features is:
 
 ### Support or Contact
 
-If you have some question about above, please contact us: paydayloan@163.com
+If you have some question about above, please contact us: hobby_news@sina.com
